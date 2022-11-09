@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/9062792/teals/blob/main/hello.py/HEAD)
 # teals
 
  This is my repo for ## Thrid Level Header
